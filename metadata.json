@@ -1,0 +1,6 @@
+{
+  "name": "Fun Earn",
+  "description": "Fun Earn - Play Tic Tac Toe, earn points and redeem via UPI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
